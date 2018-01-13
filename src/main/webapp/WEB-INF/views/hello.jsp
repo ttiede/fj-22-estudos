@@ -16,6 +16,25 @@
 
     <p>Pull requests terão direito a algo que vou escolher</p>
 
+    <h2>Regras</h2>
+    <br>
+    <li>Forkar o repositorio que pode ser encontrado <a href="https://github.com/MathBrandino/fj-22-estudos">aqui</a></li>
+    <li>Ler o readme do projeto</li>
+    <li>Precisa ter testes unitários</li>
+    <li>Cada pequena coisa um commit</li>
+    <li>Trabalhar com branchs separadas em dev</li>
+
+
+    <h4>Sugestões de Projeto</h4>
+
+    <li>Sistema para inclusão de Carros</li>
+    <li>Livraria</li>
+    <li>Zoologico</li>
+    <li>Estoque de Qualquer coisa</li>
+    <li>Twitter --> muito mais simples do que o verdadeiro</li>
+
+    <h6>Lembrando que é livre, pode fazer qualquer coisa, desde que respeita as regras.</h6>
+
     <footer class="footer">Caelum - Ensino e Educação</footer>
 </body>
 </html>
