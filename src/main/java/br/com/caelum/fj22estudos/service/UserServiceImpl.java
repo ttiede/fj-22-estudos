@@ -19,7 +19,7 @@ public class UserServiceImpl implements IUserService{
     public BCryptPasswordEncoder bCryptPasswordEncoder;
 
     @Autowired
-    public void UserServiceImpl(UserRepository userRepository, RoleRepository roleRepository, BCryptPasswordEncoder bCryptPasswordEncoder){
+    public void UserServiceImpl(IUserRepository userRepository, IRoleRepository roleRepository, BCryptPasswordEncoder bCryptPasswordEncoder){
         this.userRepository = userRepository;
         this.roleRepository = roleRepository;
         this.bCryptPasswordEncoder = bCryptPasswordEncoder;
